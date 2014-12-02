@@ -8,8 +8,10 @@
 #include "targetver.h"
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <tchar.h>
 #include <thread>
-
-
+#include <iostream>
+#include <vector>
+#include "RakPeerInterface.h"
 // TODO: reference additional headers your program requires here
